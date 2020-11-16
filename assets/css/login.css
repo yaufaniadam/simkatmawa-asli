@@ -1,0 +1,98 @@
+.logo-posisi{
+      position: fixed;
+      top: 15px;
+      left: 15px;
+      width: 95px;
+      height: 138.8px;
+    }
+    .Path-4{
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 600px;
+      height: 500px;
+      opacity: 0.9;
+      border-radius: 10px;
+      -webkit-backdrop-filter: blur(50px);
+      backdrop-filter: blur(50px);
+      background-color: #ffffff;
+    }
+    .text-1{
+      position: fixed;
+      top: 10%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 450px;
+      height: 30px;
+      opacity: 0.8;
+      font-family: FrancePlain;
+      font-size: 26px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.13;
+      letter-spacing: normal;
+      text-align: right;
+      color: #064f38;
+    }
+    .text-2{
+      position: fixed;
+      top: 20%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 450px;
+      height: 23px;
+      opacity: 0.8;
+      font-family: FrancePlain;
+      font-size: 20px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.12;
+      letter-spacing: normal;
+      text-align: right;
+      color: #064f38;
+    }
+    .text-3{
+      position: fixed;
+      top: 38%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 152px;
+      height: 27px;
+      opacity: 0.8;
+      font-family: FrancePlain;
+      font-size: 28px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.1;
+      letter-spacing: normal;
+      text-align: left;
+      color: #064f38;
+    }
+    .Line-1{
+      position: fixed;
+      top: 25%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 550px;
+      height: 0;
+      opacity: 0.5;
+      border: solid 2px #064f38;
+    }
+    .lg-form{
+      position: fixed;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 450px;
+      height: 200px;
+    }
+    .bt-border{
+        border-radius: 25px;
+        border: 2px solid #004028!important;
+        background-color: #064f38!important;
+        color: #ffffff!important;
+    }

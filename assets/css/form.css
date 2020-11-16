@@ -1,0 +1,33 @@
+.text-tabel{
+    color: #ffffff !important;
+  }
+.header-card{
+	border-radius: 8px;
+    position: relative;
+    top: 10px;
+    left: 48%;
+    transform: translate(-50%, -50%);
+ }
+.colom-1{
+	position: relative;
+	top: 15px;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+}
+.colom-2{
+	position: relative;
+	top: 8px;
+    left: 12.5%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+}
+.bt-add{
+	width: 150px;
+	height: 35px;
+}
+.md-form label.active {
+    color: #004028;
+    text-decoration: none;
+    background-color: #ffffff!important;
+}

@@ -1,0 +1,95 @@
+.posisi-bg {
+        height: 500px;
+        opacity: 0.5;
+    }
+     .text-1{
+      position: relative;
+      top: 130px;
+      left: 10px;
+      width: 540px;
+      height: 30px;
+      opacity: 0.8;
+      font-family: FrancePlain;
+      font-size: 26px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.1;
+      letter-spacing: normal;
+      text-align: right;
+      color: #064f38;
+    }
+    .text-2{
+      position: relative;
+      top: 190px;
+      left: 10px;
+      width: 540px;
+      height: 22px;
+      opacity: 0.8;
+      font-family: FrancePlain;
+      font-size: 26px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.1;
+      letter-spacing: normal;
+      text-align: right;
+      color: #064f38;
+    }
+    .text-3{
+      position: relative;
+      top: 210px;
+      left: 10px;
+      width: 540px;
+      height: 24px;
+      opacity: 0.8;
+      font-family: FrancePlain;
+      font-size: 22px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.07;
+      letter-spacing: normal;
+      text-align: right;
+      color: #064f38;
+    }
+    .Line-13 {
+      position: relative;
+      top: 100px;
+      left: 250px;
+      transform: translate(-50%, -50%);
+      width: 0;
+      height: 300px;
+      opacity: 0.6;
+      border: solid 1px #064f38;
+    }
+    .bg-umy{
+        background-color: #004028!important;
+    }
+    .text-4{
+      top: 50px;
+      border-radius: 10px;
+      font-size: 16px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.13;
+      letter-spacing: normal;
+      text-align: left;
+      color: #ffffff;
+    }
+    .color-dd{
+        color: #ffffff!important;
+    }
+    .dropdown-menu> a:hover, .dropdown-menu > a:focus {
+             background-color: #064f38 !important;
+    }
+    .dropdown-menu> a:hover, .dropdown-menu > a:focus {
+             color:  #ffffff !important;
+    }
+    .active{
+        border-radius: 10px;
+        opacity: 0.7;
+        background-color: #064f38 !important;
+    }
+
